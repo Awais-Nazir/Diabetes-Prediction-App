@@ -1,3 +1,6 @@
+# Hi, I'm Awais Nazir! 👋
+
+I am Awais Nazir, currently enrolled in B.S Software Engineering at UET Taxila.
 
 # Diabetes Prediction App
 
